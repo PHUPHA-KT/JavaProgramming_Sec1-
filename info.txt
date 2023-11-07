@@ -1,0 +1,5 @@
+student_id : 231311072
+student name : Phupha Kongtin
+Majot : IT
+Level : 1
+Fculty : IT
