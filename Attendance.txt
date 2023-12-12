@@ -1,4 +1,4 @@
 Id : 2313110732
 Name-Surname : Phupha kongtin
-Date : Nov-28-2023
-Topic : Control Statement (Decision, Loop, and Jump Statement)
+Date : 12-12-2023
+Topic : Method of String
