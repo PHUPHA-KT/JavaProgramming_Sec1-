@@ -1,4 +1,4 @@
 Id : 2313110732
 Name-Surname : Phupha kongtin
-Date : 9-1-2024
-Topic : Class and Object
+Date : 16-1-2024
+Topic : Encapsulation Concept
